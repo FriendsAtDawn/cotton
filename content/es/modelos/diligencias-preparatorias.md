@@ -9,5 +9,5 @@ date: 2023-03-06
 
 
 
-{{< embed-pdf url="https://bafybeihsyvzmwva7ys3suuzgwo3wmdnfjjmdrdxzgpovi4ai5lnrg3jlrm.ipfs.nftstorage.link/">}}
+{{< embed-pdf url="https://docs.google.com/viewer?url=https://bafybeihsyvzmwva7ys3suuzgwo3wmdnfjjmdrdxzgpovi4ai5lnrg3jlrm.ipfs.nftstorage.link/">}}
 
