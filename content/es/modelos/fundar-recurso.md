@@ -6,4 +6,4 @@ tags: ["modelos", "escritos", "fundar", "alzada"]
 date: 2023-03-20
 ---
 
-{{< embed-pdf url="./../pdfs/fundar-recursos.pdf" >}}
+<!-- <object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object> -->
